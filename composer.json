@@ -18,7 +18,7 @@
         "symfony/serializer": "^3.0",
         "symfony/options-resolver": "^3.0",
         "symfony/property-access": "^3.0",
-        "symfony/http-foundation": "^3.0"
+        "symfony/http-foundation": "~2.1"
     },
     "require-dev": {
         "monolog/monolog": "^1.17"
